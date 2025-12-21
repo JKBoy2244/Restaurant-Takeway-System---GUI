@@ -1,3 +1,5 @@
+import javax.swing.JOptionPane;
+
 abstract class UserDetails implements UserInterface {
 
   protected String firstName;
