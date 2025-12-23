@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class OrderMealTest {
 
-  public static void main(String[] arg) {
+  public static void main(String[] args) {
 
 
     OrderMeal order = new OrderMeal("Bob", "Daniel", "bobdaniel@yahoo.com", "09876543212", "4 PC. Wings and Chips", "Coke", "Chocolate Ice Cream", 2.50);
