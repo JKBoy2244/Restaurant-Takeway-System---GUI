@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class OrderMealTest1 {
+public class OrderMealTest4 {
 
   public static void main(String[] args) {
 
